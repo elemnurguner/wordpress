@@ -1,6 +1,5 @@
 # Starlinx İplik E-ticaret Sitesi
 
-![Ana Sayfa](docs/homepage.png)
 
 ## Proje Hakkında
 
